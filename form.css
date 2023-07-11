@@ -1,0 +1,21 @@
+label{
+    display:block;
+    padding: 10px;
+    border-radius: 50px;
+}
+form{
+    margin: 00px 500px 00px 500px;
+    border-radius: 20px;
+    background-color:skyblue;
+}
+input[type=submit]{
+    padding: 10px;
+    color: black;
+    background-color:green;
+}
+input[type=submit]:hover{
+    background-color: red;
+}
+#submit{
+    padding:10px;
+}
